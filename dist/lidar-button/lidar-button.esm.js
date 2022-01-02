@@ -1,0 +1,1 @@
+import{p as t,b as r}from"./p-17178c6a.js";(()=>{const r=import.meta.url,a={};return""!==r&&(a.resourcesUrl=new URL(".",r).href),t(a)})().then((t=>r([["p-8c02c5ac",[[1,"lidar-butt"],[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],t)));
